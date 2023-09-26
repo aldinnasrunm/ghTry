@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ghTry</string>
+    <string name="detail_user">Detail User</string>
+    <string name="followers">Followers</string>
+</resources>
